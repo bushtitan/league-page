@@ -7,8 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Founded in 2021, our league began as a keeper league amongst a small group of friends. Over the years, it has grown into a full-fledged dynasty league. Each year, the managers compete to win the prestigious Champions Cup and avoid the dreaded Last Place Trophy.</p>
-  <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, while the rest gravitated towards the steadfast value of veterans. While some managers fled from injuries and down years, others bought the dip and built for the future./p>
+  <p>Founded in 2021, our league began it's roots at the Fraternity house chapter room in San Jose California. 10 man is a small but mighty format and this league in particular requires a certain level of dedication (I mean we have a website after all...)</p>
+  <p>Some managers built immediate win-now juggernauts, while others began the slow process of building a youthful system in attemps to create a true dynasty. While some managers fled from injuries and down years, others bought the dip and built for the future./p>
   <p>In an astounding commitment to building a dynasty franchise, many of the managers have begun to have kids and groom the next generation of managers to take over their teams. The mini managers are being heavily indoctrinated into the fantasy lifestyle and will be expected to take an active role as soon as they can successfully type out a coherent trade offer.</p>
   <p>In contrast to the addition of the mini managers, some managers have also left, but despite that, the league has only gotten stronger. With more passionate managers, the competition has become more intense and more difficult each year.</p>
   <p> While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with $800 and the last place manager ships the Champions Cup to the new champion.</p>
